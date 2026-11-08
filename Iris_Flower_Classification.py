@@ -1,5 +1,5 @@
 # Iris Flower Classification - CodeAlpha Task 1
-# Author: [Your Name]
+# Author: ishita 
 
 import pandas as pd
 import matplotlib.pyplot as plt
